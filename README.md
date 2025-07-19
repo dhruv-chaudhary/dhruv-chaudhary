@@ -4,7 +4,7 @@ I'm a solo developer who builds tools, explores systems, and documents the proce
 
 ### 🛠 Projects I’ve Built
 
-- 🚦 [**Trottl**](https://github.com/dhruv-chaudhary/throttl) — A blazing-fast token bucket rate limiter with wrk benchmarks build using Bun 
+- 🚦 [**Throttl**](https://github.com/dhruv-chaudhary/throttl) — A blazing-fast token bucket rate limiter with wrk benchmarks build using Bun 
 - 🧠 [**buildbreakrepeat.dev**](https://buildbreakrepeat.dev) — My blog where I document software, hardware, homelab, and random experiments
 
 > I’ve built 100+ projects, but most of them are locked away in the shame drawer.  
